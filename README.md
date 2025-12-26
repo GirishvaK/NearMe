@@ -188,11 +188,11 @@ vels.html
 ## OUTPUT
 PLACES AROUND ME
 
-![NearMe/Screenshot 2025-12-26 204655.png](<../name/mapapp/static/Screenshot 2025-12-26 204655.png>)
+![alt text](<Screenshot 2025-12-26 204655-1.png>)
 
 QUEENS LAND
 
-![name/mapapp/static/Queens Land, Chennai.jpg](<../name/mapapp/static/Queens Land, Chennai.jpg>)
+![alt text](<Queens Land, Chennai-1.jpg>)
 
 SAVEETHA ENGINEERING COLLEGE
 
