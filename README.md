@@ -192,7 +192,7 @@ PLACES AROUND ME
 
 QUEENS LAND
 
-![NearMe/Queens Land, Chennai.jpg](<../name/mapapp/static/Queens Land, Chennai.jpg>)
+![name/mapapp/static/Queens Land, Chennai.jpg](<../name/mapapp/static/Queens Land, Chennai.jpg>)
 
 SAVEETHA ENGINEERING COLLEGE
 
@@ -200,7 +200,7 @@ SAVEETHA ENGINEERING COLLEGE
 
 VELS FILM CITY
 
-![NearMe/vels.jpg](../name/mapapp/static/vels.jpg)
+![alt text](vels-1.jpg)
 
 
 
