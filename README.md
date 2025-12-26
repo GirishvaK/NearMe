@@ -186,10 +186,21 @@ vels.html
 ```
 
 ## OUTPUT
-![alt text](<../name/mapapp/static/Screenshot 2025-12-26 204655.png>)
-![alt text](<../name/mapapp/static/Queens Land, Chennai.jpg>)
-![alt text](<../name/mapapp/static/Home - Saveetha Engineering College Best Engineering College for Futuristic Learning Best Engineering College in Tamilnadu.jpg>)
-![alt text](../name/mapapp/static/vels.jpg)
+PLACES AROUND ME
+
+NearMe/Screenshot 2025-12-26 204655.png
+
+QUEENS LAND
+
+NearMe/Queens Land, Chennai.jpg
+
+SAVEETHA ENGINEERING COLLEGE
+
+NearMe/Home - Saveetha Engineering College Best Engineering College for Futuristic Learning Best Engineering College in Tamilnadu.jpg
+
+VELS FILM CITY
+
+NearMe/vels.jpg
 
 
 
