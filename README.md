@@ -188,19 +188,19 @@ vels.html
 ## OUTPUT
 PLACES AROUND ME
 
-NearMe/Screenshot 2025-12-26 204655.png
+![NearMe/Screenshot 2025-12-26 204655.png](<../name/mapapp/static/Screenshot 2025-12-26 204655.png>)
 
 QUEENS LAND
 
-NearMe/Queens Land, Chennai.jpg
+![NearMe/Queens Land, Chennai.jpg](<../name/mapapp/static/Queens Land, Chennai.jpg>)
 
 SAVEETHA ENGINEERING COLLEGE
 
-NearMe/Home - Saveetha Engineering College Best Engineering College for Futuristic Learning Best Engineering College in Tamilnadu.jpg
+![NearMe/Home - Saveetha Engineering College Best Engineering College for Futuristic Learning Best Engineering College in Tamilnadu.jpg](<Home - Saveetha Engineering College Best Engineering College for Futuristic Learning Best Engineering College in Tamilnadu.jpg>)
 
 VELS FILM CITY
 
-NearMe/vels.jpg
+![NearMe/vels.jpg](../name/mapapp/static/vels.jpg)
 
 
 
